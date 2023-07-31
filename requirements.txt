@@ -1,0 +1,7 @@
+streamlit==1.23.1
+numpy==1.23.5
+pandas==1.5.3
+opencv==4.6.0
+streamlit-option-menu==0.3.6
+gensim==4.3.0
+bokeh==2.4.3
