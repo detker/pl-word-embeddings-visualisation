@@ -3,4 +3,4 @@
 
 corpus shrinked to 50k most common words `excluding` stopwords (by @bieli: https://github.com/bieli/stopwords) and interpunction.
 
-web app hosted with streamlit: ...
+web app hosted with streamlit: https://pl-word-embeddings-visualisation.streamlit.app/
